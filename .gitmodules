@@ -1,2 +1,2 @@
-[submodule "https://github.com/geekplux/hexo-theme-typing"]
-	url = themes/typing
+[submodule "themes/typing"]
+	url = https://github.com/geekplux/hexo-theme-typing
