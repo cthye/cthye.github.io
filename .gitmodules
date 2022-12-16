@@ -1,3 +1,7 @@
 [submodule "themes/Academia"] 
   path = themes/Academia
   url = https://github.com/PhosphorW/hexo-theme-academia.git
+
+[submodule "themes/hexo-theme-typing"] 
+  path = themes/hexo-theme-typing
+  url = https://github.com/geekplux/hexo-theme-typing.git
